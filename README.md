@@ -28,3 +28,10 @@ Implement strict infection control protocols in hospitals, such as hand hygiene,
 [Link to Generated Report](example.pdf)
 
 [Full conversation between agents](conversation.txt)
+
+## Drawbacks and Future Work
+GPT-3.5 tends to agree with itself relentlessly, though it does sometimes still offer suggestions after agreeing. GPT-4 is better at this, but token counts and costs add up pretty quickly.
+
+This feels mostly like a prompt-engineering challenge, and I think that creating better prompts than the ones I wrote in a couple of minutes could improve the quality of generations.
+
+Regardless, I really look forward to a future where we can give capable models problems we need to brainstorm solutions for and have them rapidly iterate and propose solutions that may have taken us humans a while to come up with!
