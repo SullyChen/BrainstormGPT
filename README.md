@@ -26,4 +26,5 @@ Implement strict infection control protocols in hospitals, such as hand hygiene,
 **Brainstormed solution**:
 
 [Link to Generated Report](example.pdf)
+
 [Full conversation between agents](conversation.txt)
