@@ -16,4 +16,14 @@ Reqs:
 Usage:
 `python main.py --temp [temperature] --top_p [top_p] --engine [gpt-3.5-turbo or gpt-4 (recommended)] --max_len [max number of tokens for the conversation]`
 
-## Example
+## Example (GPT-3.5)
+`Problem: Hospital acquired infections are a significant source of mortality and morbidity.`
+
+**Initial solution:**
+  
+Implement strict infection control protocols in hospitals, such as hand hygiene, use of personal protective equipment, and proper cleaning and disinfection of surfaces and medical equipment. Increase education and training for healthcare workers on infection control measures. Utilize technology, such as electronic monitoring systems and antimicrobial coatings, to further reduce the spread of infections. Regularly monitor and report infection rates to identify areas for improvement. Collaborate with other healthcare facilities and public health agencies to share best practices and coordinate efforts in infection control.
+
+**Brainstormed solution**:
+
+[Link to Generated Report](example.pdf)
+[Full conversation between agents](conversation.txt)
